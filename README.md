@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Matt 👋
 
-- 📫 How to reach me: Twitter is a good place to start - [@Matt_Craddock](https://twitter.com/Matt_Craddock?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+- 📫 How to reach me: Twitter is a good place to start - [@Matt_Craddock](https://twitter.com/Matt_Craddock)
 <!--
 **craddm/craddm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
