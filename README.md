@@ -2,6 +2,8 @@
 
 I'm currently a Senior Lecturer at the University of Lincoln, where I teach research methods and statistics to students studying for Masters degrees in psychology using the R statistical programming language.
 
+I conduct cognitive neuroscience research using techniques such as electroencephalography, functional magnetic resonance imaging, and transcranial electrical stimulation. 
+
 I also develop software for research purposes. 
 
 - 📫 How to reach me: Twitter is a good place to start - [@Matt_Craddock](https://twitter.com/Matt_Craddock)
